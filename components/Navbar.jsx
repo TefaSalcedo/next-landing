@@ -8,7 +8,7 @@ export default function Navbar() {
       <Link href="/">Inicio</Link>
       <Link href="/about">Sobre mí</Link>
       <Link href="/contact">Contacto</Link>
-      <Link href="/blog">Blog</Link>
+      <Link href="/gsap">GSAP</Link>
     </nav>
   );
 }
